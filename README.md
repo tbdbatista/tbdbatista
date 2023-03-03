@@ -13,7 +13,7 @@ I am passionate about developing Swift projects for iOS devices and constantly e
 - Projects using autolayout with ViewCode only or including Xibs/Nibs, and Storyboard.
 - Familiarity with MVC, MVVM, VIPER architecture patterns, including Coordinators.
 - External libraries: Firebase, Swinject, Moya, SwiftLint.
-- Cocoapods and SPM dependency manager.
+- Experience using both CocoaPods and Swift Package Manager as dependency managers.
 - Perform Unit Tests using XCTest.
 - Knowledge in local data persistence with: Core Data, Realm, Keychain and UserDefaults.
 
