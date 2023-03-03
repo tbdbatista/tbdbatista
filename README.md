@@ -8,6 +8,15 @@ I am passionate about developing Swift projects for iOS devices and constantly e
 - My current focus is on Dependency Injection (Swinject), Coordinator, Viper architecture, writing Clean Code, and performing effective Unit Testing using XCTest.
 - Improving my skills in native app implementation using ViewCode.
 
+## ⛷️ Skills:
+
+- Projects using autolayout with ViewCode only or including Xibs/Nibs, and Storyboard.
+- Familiarity with MVC, MVVM, VIPER architecture patterns, including Coordinators.
+- External libraries: Firebase, Swinject, Moya, SwiftLint.
+- Cocoapods and SPM dependency manager.
+- Perform Unit Tests using XCTest.
+- Knowledge in local data persistence with: Core Data, Realm, Keychain and UserDefaults.
+
 ## 📫 How to reach me:
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tbdbatista/)
