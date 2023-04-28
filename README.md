@@ -26,7 +26,7 @@ I am passionate about developing Swift projects for iOS devices and constantly e
 ## 📫 How to reach me:
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tbdbatista/)
-- Follow me on [Instagram](https://www.instagram.com/tbdbatista/))
+- Follow me on [Instagram](https://www.instagram.com/tbdbatista/)
 
 ## 🎵 Listening now:
 
