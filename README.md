@@ -8,6 +8,12 @@ I am passionate about developing Swift projects for iOS devices and constantly e
 - My current focus is on Dependency Injection (Swinject), Coordinator, Viper architecture, writing Clean Code, and performing effective Unit Testing using XCTest.
 - Improving my skills in native app implementation using ViewCode.
 
+## Complementary studies:
+
+- Flutter
+- Kotlin
+- Java
+
 ## ⛷️ Skills:
 
 - Projects using autolayout with ViewCode only or including Xibs/Nibs, and Storyboard.
