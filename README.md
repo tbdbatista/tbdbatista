@@ -4,24 +4,28 @@ I am passionate about developing Swift projects for iOS devices and constantly e
 
 ## 🔭 I'm currently working on:
 
-- Developing projects for iOS devices, for now Native only.
-- My current focus is on Dependency Injection (Swinject), Coordinator, Viper architecture, writing Clean Code, and performing effective Unit Testing using XCTest with doubles.
-- Improving my skills in native app implementation using ViewCode.
+- Developing projects for iOS and Android devices, for now Native only.
+- Currently improving my backend skills with Java and Kotlin.
+- Also learning best practices for Continuous Integration and Continuous Delivery.
+- And expanding my skill set by learning about mobile testing methodologies, with a focus on implementing automated testing frameworks.
 
 ## ⛷️ Skills:
 
 - Projects using autolayout with ViewCode only or including Xibs/Nibs, and Storyboard.
-- Familiarity with MVC, MVVM, VIPER architecture patterns, including Coordinators.
-- External libraries: Firebase, Swinject, Moya, SwiftLint.
+- Familiarity with MVC, MVVM, VIPER, Clean Code.
+- External libraries: Firebase, Swinject, Moya, SwiftLint, Quick, Nimble.
 - Experience using both CocoaPods and Swift Package Manager as dependency managers.
-- Perform Unit Tests using XCTest.
+- Automated tests with Native frameworks, and Appium + Robot.
 - Knowledge in local data persistence with: Core Data, Realm, Keychain and UserDefaults.
+- Agile methods (Kanban and Scrum).
+- Code management, GIT.
 
 ### Complementary studies:
 
-- Flutter
-- Kotlin
-- Java
+- Flutter (Mobile)
+- Angular (Front-end)
+- Kotlin (Android, mobile)
+- Java e Kotlin (Back-end)
 
 ## 📫 How to reach me:
 
