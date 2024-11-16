@@ -2,7 +2,8 @@
 
 I am passionate about developing Swift projects for iOS devices and constantly exploring new technologies to enhance my skills. 
 
-Take a look at mmy new project: [https://forthegloryofretrogames.com/](https://forthegloryofretrogames.com/) made with angular 17 and all the games logic have been written from scratch.
+Take a look at my new project: [https://forthegloryofretrogames.com/](https://forthegloryofretrogames.com/) made with angular 17 and all the games logic have been written from scratch.
+And this is my other project: [https://quiznquizzes.com/](https://quiznquizzes.com/) made with angular 17. 
 
 ## 🔭 I'm currently working on:
 
